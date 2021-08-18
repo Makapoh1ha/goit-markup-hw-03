@@ -13,6 +13,11 @@ body {
   list-style: none;
 }
 .link {
+  text-decoration: none;
+}
+.header-link-blue {
+  font-style: normal;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
