@@ -528,7 +528,6 @@ img {
 .portfolio-list-box-thirdt {
   width: 370px;
   background-color: var(--white);
-  margin-bottom: 30px;
 }
 
 .portfolio-list-box-thirdt:not(:last-child) {
@@ -539,6 +538,10 @@ img {
   width: 370px;
   background-color: var(--white);
   margin-bottom: 30px;
+}
+.final-last {
+  width: 370px;
+  background-color: var(--white);
 }
 
 .portfolio-list-text {
